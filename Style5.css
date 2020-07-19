@@ -55,20 +55,6 @@ background: #009879;
 /* down nav*/
 
 
-
-.content-table tbody tr:last-of-type {
-  border-bottom: 2px solid #009879;
-}
-
-.content-table tbody tr.active-row {
-  font-weight: bold;
-  color: #009879;
-}
-
-.content-table tbody td h4.active-row {
-  color: #009879;
-}
-
 footer
 {
 background:#fff;
