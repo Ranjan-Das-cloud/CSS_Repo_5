@@ -54,15 +54,6 @@ background: #009879;
 
 /* down nav*/
 
-.
-    
-    font-size: 13px;
-    color: #444444;
-    text-decoration: none;
-    -webkit-tap-highlight-color: transparent;
-    transition: background-color 0.1s ease-in-out;
-}
-
 .nav__link:hover {
     background-color: #eeeeee;
 }
