@@ -54,17 +54,7 @@ background: #009879;
 
 /* down nav*/
 
-
-    
-    
-    overflow-x: auto;
-}
-
-.nav__link {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+.
     flex-grow: 1;
     min-width: 50px;
     overflow: hidden;
