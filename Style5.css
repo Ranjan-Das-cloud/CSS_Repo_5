@@ -54,9 +54,7 @@ background: #009879;
 
 /* down nav*/
 
-.nav__link:hover {
-    background-color: #eeeeee;
-}
+
 
 .nav__link--active {
     color: #009578;
