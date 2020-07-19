@@ -54,13 +54,7 @@ background: #009879;
 
 /* down nav*/
 
-.content-table tbody tr {
-  border-bottom: 1px solid #dddddd;
-}
 
-.content-table tbody tr:nth-of-type(even) {
-  background-color: #f3f3f3;
-}
 
 .content-table tbody tr:last-of-type {
   border-bottom: 2px solid #009879;
