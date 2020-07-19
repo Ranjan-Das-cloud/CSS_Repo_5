@@ -62,16 +62,6 @@ background: #009879;
     color: #009578;
 }
 
-
-border-collapse: collapse;
-margin: 25px 0;
-  font-size: 0.9em;
-  width: 100%;
-  border-radius: 5px 5px 0 0;
-  overflow-y: scroll;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-}
-
 .content-table thead tr {
   background-color: #009879;
   color: #ffffff;
