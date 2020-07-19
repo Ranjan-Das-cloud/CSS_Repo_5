@@ -54,12 +54,6 @@ background: #009879;
 
 /* down nav*/
 
-
-
-.nav__link--active {
-    color: #009578;
-}
-
 .content-table thead tr {
   background-color: #009879;
   color: #ffffff;
