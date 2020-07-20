@@ -36,5 +36,7 @@ All the respective screenshots are attached within the images folder as well as 
 
 ![Screenshot_9](https://user-images.githubusercontent.com/65014749/87906125-a10f1900-ca7f-11ea-8e10-fa9b1dd32c7b.png)
 
+![Screenshot_10](https://user-images.githubusercontent.com/65014749/87906182-c7cd4f80-ca7f-11ea-98d6-8470760808d7.png)
+
 
 
