@@ -16,5 +16,7 @@ All the respective screenshots are attached within the images folder as well as 
 
 /........./
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+![Screenshot_1](https://user-images.githubusercontent.com/65014749/87905623-a7e95c00-ca7e-11ea-9c41-85fb623a229d.png)
+
+
 
